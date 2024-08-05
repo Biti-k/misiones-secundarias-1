@@ -1,5 +1,6 @@
 https://misiones-secundarias.netlify.app/
-You can try the app :)
+React+Astro+Strapi<br>
+You can try the app :) <br> 
 Silly project done so my friends and I could have persistent data of a game, and because I just like doing it.
 ![image](https://github.com/user-attachments/assets/ee5b91c5-a220-433c-a8ea-27a5244b9a9d)
 
