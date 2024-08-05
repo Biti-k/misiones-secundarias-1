@@ -1,0 +1,19 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import {getPlayers} from "../../services/getPlayers";
+import {type Player} from "../../types/players";
+const { id } = Astro.params
+let players: Player[];
+console.log(id)
+
+const getUsers = async() => {
+    let players_ = await getPlayers();
+    players = players_;
+    return players;
+}
+
+---
+
+<Layout title="Misiones Secundarias 👾">
+
+</Layout>
