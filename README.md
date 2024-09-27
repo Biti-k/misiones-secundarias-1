@@ -1,4 +1,4 @@
-https://misiones-secundarias.netlify.app/
+https://misiones-secundarias.netlify.app/ (it doesn't work anymore bc of servers)
 React+Astro+Strapi<br>
 You can try the app :) <br> 
 Silly project done so my friends and I could have persistent data of a game, and because I just like doing it.
